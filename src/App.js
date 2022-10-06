@@ -3,7 +3,7 @@ import { useState } from "react";
 import Chart from "react-apexcharts";
 import useAlphaVantage from "./useAlphaVantage";
 
-import { symbols } from "./api";
+import { symbols } from "./config";
 
 import "./App.css";
 
