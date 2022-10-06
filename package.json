@@ -4,6 +4,7 @@
   "private": true,
   "main": "public/electron.js",
   "homepage": "./",
+  "description": "A simple Electron app",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",
