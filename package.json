@@ -4,7 +4,12 @@
   "private": true,
   "main": "public/electron.js",
   "homepage": "./",
+  "license": "MIT",
   "description": "A simple Electron app",
+  "author": {
+    "name": "Roxor",
+    "email": "sharoroxor@gmail.com"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",
